@@ -296,7 +296,7 @@ idがわからない場合は固有の文字列を見つけて検索をする。
 前者の検索が一致した行の記述を見ると、
 避難シェルターのコンソールを調べたときに
 idが`"COMP_REFUGEE_CENTER_MAIN"`の`talk_topic`を呼び出すという意味になっている。
-mpagenの仕様は複雑で、このオブジェクトのidは
+mapgenの仕様は複雑で、このオブジェクトのidは
 フィールド`"nested_mapgen_id"`の値`"shelter_computer"`である。
 さらに、`"shelter_computer"`を検索する、という作業を繰り返せば、
 jsonオブジェクトがどのような関係を持っているかがわかる。
