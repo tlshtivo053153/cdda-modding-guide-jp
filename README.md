@@ -12,9 +12,8 @@ MOD制作に必ず必要なツールはテキストエディタである。
 すでに慣れているエディタがあれば、それを使ってもいい。
 このガイドではVisual Studio Code(以下VSCodeと表記)を使うものとする。
 
-[VSCodeのインストール](vscode/INSTALL.md)
-
-TODO: 拡張機能の紹介
+- [VSCodeのインストール](vscode/INSTALL.md)
+- [VSCodeの拡張機能](vscode/EXTENSIONS.md)
 
 ### Git
 Gitをインストールするかどうかは任意である。
